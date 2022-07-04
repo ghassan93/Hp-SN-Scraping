@@ -9,8 +9,6 @@ class WarrantyCheck:
         path="C:/Program Files (x86)/chromedriver.exe"
 
         self.driver = webdriver.Chrome(path)
-       
-        self.csv_list = []
         self.comp_dict = {}
 
 
@@ -28,11 +26,11 @@ class WarrantyCheck:
                     }
                
 
-    def startFirefoxBrowser(self):
+    def startChromeBrowser(self):
         self.driver.get("https://support.hp.com/us-en/checkwarranty/multipleproducts")
 
 
-    def closeFirefoxBrowser(self):
+    def closeChromeBrowser(self):
         self.driver.close()
 
 
@@ -57,8 +55,6 @@ class WarrantyCheck:
     def over20Submit(self):
         self.submitEntry()
         time.sleep(10)
-        #self.driver.execute_script("window.history.go(-1)")
-        #self.startFirefoxBrowser()
         self.checkForProductNumber()
         self.submitEntry()
         time.sleep(10)
@@ -69,7 +65,7 @@ class WarrantyCheck:
         self.driver
         self.driver.execute_script("window.history.go(-1)")
         time.sleep(5)
-        self.startFirefoxBrowser()
+        self.startChromeBrowser()
     
     
     def addSerialNumberToPage(self, num=None):
@@ -95,5 +91,5 @@ class WarrantyCheck:
 if __name__ == '__main__':
     W = WarrantyCheck()
     W.scanCSV()
-    W.startFirefoxBrowser()
+    W.startChromeBrowser()
     W.addSerialNumberToPage()
