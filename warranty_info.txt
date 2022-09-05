@@ -1,3 +1,17 @@
+HP ProBook x360 11 G2 EE Notebook PC
+SN: 5CG7496MGM
+View details
+Warranty type Service type Start Date End Date Status
+Manufacturer Warranty
+Wty: HP HW Maintenance Offsite Support
+Wty: HP Support for Initial Setup
+January 08, 2018
+January 08, 2018
+January 07, 2019
+April 07, 2018
+Expired
+Expired
+
 HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
 SN: 5CG0442MQ1
 View details
@@ -33,6 +47,17 @@ HWM Offsite
 
 HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
 SN: 5CG0442LY6
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
+
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0441MNZ
 View details
 Warranty type Service type Start Date End Date Status
 Care Pack
@@ -592,39 +617,192 @@ HWM Offsite
   January 05, 2024
   Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG04424Y8
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG04423ZW
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0441Z4R
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG044241B
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0442424
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0442MGY
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0440D75
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG04424Y5
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0440HT2
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG04424WB
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG04423ZC
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0442MGF
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0441ZX2
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0442MPZ
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0441H18
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0442MQ9
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
+SN: 5CG0441L6P
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  January 06, 2021
+  January 05, 2024
+  Active
 
 HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
 SN: 5CG04424WC
@@ -2419,39 +2597,192 @@ HWM Offsite
   July 31, 2023
   Active
 
+HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
+SN: 5CG019BHJH
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  May 17, 2020
+  June 20, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91724Y7
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91701BB
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172K2M
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9171BZV
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9166TF6
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9168K9J
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
+SN: 5CG0199B8Y
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  May 17, 2020
+  June 20, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91693B9
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170189
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172CGZ
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91694TH
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9169FGW
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9169BS7
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172VY6
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172P3S
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG94471D9
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick Up & Return, excl. external Monitor
+HWM Offsite
+  December 06, 2019
+  December 05, 2023
+  Active
 
 HP ProBook x360 11 G4 EE Notebook PC
 SN: 5CG91691K6
@@ -2464,39 +2795,192 @@ HWM Offsite
   July 31, 2023
   Active
 
+HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
+SN: 5CG0199MP2
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  May 17, 2020
+  June 20, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172PBW
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172LXC
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9171XPL
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170LWY
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170546
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91689HD
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91729DZ
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170R4R
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9168S00
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG917203C
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172P0S
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172W8S
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91698H7
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170SP8
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
+SN: 5CG01999PK
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  May 17, 2020
+  June 20, 2023
+  Active
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9169CPS
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
 HP ProBook x360 11 G4 EE Notebook PC
 SN: 5CG91697T5
@@ -2509,39 +2993,195 @@ HWM Offsite
   July 31, 2023
   Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172D7P
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9165HZ5
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9454T2W
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick Up & Return, excl. external Monitor
+HWM Offsite
+  December 06, 2019
+  December 05, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG94556WK
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick Up & Return, excl. external Monitor
+HWM Offsite
+  December 06, 2019
+  December 05, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9169CPD
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9168TZ1
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91739NN
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172HQ4
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172J3N
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170QPP
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9172NST
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG916952M
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
+SN: 5CG01997MH
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Pick-Up & Return, excl. external Monitor
+HWM Offsite
+  May 17, 2020
+  June 20, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9170T1V
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG91724C1
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
+HP ProBook x360 11 G2 EE Notebook PC
+SN: 5CG74715D0
+View details
+Warranty type Service type Start Date End Date Status
+Manufacturer Warranty
+Wty: HP HW Maintenance Offsite Support
+Wty: HP Support for Initial Setup
+January 08, 2018
+January 08, 2018
+January 07, 2019
+April 07, 2018
+Expired
+Expired
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+HP ProBook x360 11 G4 EE Notebook PC
+SN: 5CG9166NRY
+View details
+Warranty type Service type Start Date End Date Status
+Care Pack
+Accidental Damage, Pick-up & Return, exc
+HWM Offsite
+  August 01, 2019
+  July 31, 2023
+  Active
 
 HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
 SN: 5CG0199MTC
@@ -4117,204 +4757,6 @@ HWM Offsite
   Active
 
 HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170RGM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170SBR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168S16
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172KN1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9171TGF
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199J81
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172CP5
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91694QW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91692N2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9171CFV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199MPX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199HX7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172RKP
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91723KJ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91693R4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168QW8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91706Y8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91691V7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
 SN: 5CG91722L1
 View details
 Warranty type Service type Start Date End Date Status
@@ -4897,16 +5339,7 @@ HWM Offsite
   July 31, 2023
   Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172D8Z
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
+
 
 HP ProBook x360 11 G4 EE Notebook PC
 SN: 5CG9170T9G
@@ -4925,186 +5358,39 @@ View details
 Warranty type Service type Start Date End Date Status
 Care Pack
 Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
+     
 
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG028CPJJ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  July 16, 2020
-  August 19, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172VKY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172TZV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170Q9X
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172RBL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704LV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170121
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG94557HK
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91689GR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168XC8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169DR6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172GG8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91690KS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199FYL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168T0J
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199FKN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 HP ProBook x360 11 G4 EE Notebook PC
 SN: 5CG9168XG7
@@ -5123,4625 +5409,37 @@ View details
 Warranty type Service type Start Date End Date Status
 Care Pack
 Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
+     
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739WH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169FBZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91696S9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172HGD
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172JGQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702XN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166NQT
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170VS3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91701VD
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91689RQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172Q1W
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173QN1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704VP
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172LC9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91727KV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168DJS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916975H
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172GCT
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172BXZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91727Z9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168D4S
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91701XZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019992J
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168T15
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168PYF
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172871
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172KS8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172FHX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739JC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702JR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
 
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BH01
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
 
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91705G9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9171Z5M
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917087J
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199LMY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168QNR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169D95
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91690ZX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173S51
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168WNM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91634GH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91701BL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170VXN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704BD
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9163Y86
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91700YZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702H9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172WTS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170MPP
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702N4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173LZ0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169809
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169BM5
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172T2F
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739ZN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169FX7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170183
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917034V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG028C2PH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  July 16, 2020
-  August 19, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9454VF2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170M7V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9163XNM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91717RB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9178W6L
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704WV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739QB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91728RN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172KBM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172Q28
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9165GWH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9490KCF
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172HF3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91696MV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91694X9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172SSS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170DZB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168TC8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168TP6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91639LW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168RJM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9165JD9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9165FMS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172FC3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169F2W
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168RQL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917013Y
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91718FL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168T1K
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169FRG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172L94
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91692T3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91714PY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG94486Y4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  January 01, 2020
-  December 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172V34
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9454VCC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199LZ9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168TB0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91736Z7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91728HH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172CSN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168RCC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917087P
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91705JY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172BQC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91694Q0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BGJN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BH7V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168TPG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172SJV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739XB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199L7V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199M42
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917246W
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172D3Y
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172JVQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166SBZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166QQ4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91694R9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9178J0D
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169CT7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172PGZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169F48
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9454XT3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199JDP
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916948L
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170490
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917027X
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172L4H
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91691KV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9163NFS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172S3L
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172P7D
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170QZB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917202Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168RKB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199N0W
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91698M0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172M45
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170L9D
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9171XW4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170QT8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704VH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91705KL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168PFQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BJ3Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91712P7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172P17
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91694XJ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9164086
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91691C6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91689LR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199J42
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9171Y59
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168RNS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173L3M
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172HZ5
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172VH3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702M6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BJDJ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168XH3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702Y2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170SWG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172CXZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702P8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199HPP
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91692GV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917009Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91719VC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91703N6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199K1X
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG01999P3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91708DJ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170M12
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91694ML
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917020S
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173R9L
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172464
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172RRL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199MF6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172VYQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BGDF
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169D5R
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172X36
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91716FH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170TLS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BG76
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199DDK
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168PH6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166VF9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91708CZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG028C1TB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  July 16, 2020
-  August 19, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172XCS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91727W6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172RVN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704B9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172KHQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166R2F
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917008L
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91717ZP
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172W2W
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG028CPL2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  July 16, 2020
-  August 19, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170Z0K
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917001V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172CS6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916930R
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739QG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170R0T
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170WQW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170QMW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172B2D
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91635DW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172WTG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172N40
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91711Q2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91736BB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704S2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91692PW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170QFR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172P7H
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199NLV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BGN7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9454SMV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170P88
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169DQY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172PH6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91707V7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170R6M
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9163BDH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91689HT
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172SCR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172P0M
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172L6S
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172L8Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169F3B
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169DPY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168T6K
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172K7M
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169FTC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91691VG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172LQ9
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172TMC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172RXZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172J8Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91707YJ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168MYF
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9454YQ8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  December 06, 2019
-  December 05, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199GS2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199LMZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166Q7Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BJKY
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91713F3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172KQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91703ZK
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BJ3N
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172NWS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704K7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172WHZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91692NB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91701Z6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702X8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172M7Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169DMF
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917202M
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173QSM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169DQN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199LMQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91692SS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91696QB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169FS2
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91701HQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172HKQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91687DG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172609
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172RX7
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172P4S
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91737L1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172S27
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704MS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172FTM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172FKD
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170395
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9165HXK
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9448748
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  January 01, 2020
-  December 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172555
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9166V68
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168Y8V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91691J6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91702TW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170WRK
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG94486HD
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick Up & Return, excl. external Monitor
-HWM Offsite
-  January 01, 2020
-  December 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91705BZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91708JZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91701KX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916917N
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169DF4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916897N
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172LPW
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9168P4V
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199LDQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91739QR
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172M9P
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917169Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG0199F86
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9173WHZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916982D
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91704W4
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170S1H
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169B13
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172NJ5
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91691DD
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG917070Q
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9165GQ0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91725MC
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172LNQ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170540
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172JW6
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91705NM
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91705HB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G6 EE Notebook PC IDS Base Model
-SN: 5CG019BH8D
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  May 17, 2020
-  June 20, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9169FD3
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG916989K
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9170Q5P
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG91703TS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-HP ProBook x360 11 G4 EE Notebook PC
-SN: 5CG9172GZH
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Accidental Damage, Pick-up & Return, exc
-HWM Offsite
-  August 01, 2019
-  July 31, 2023
-  Active
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HP ProBook x360 11 G2 EE Notebook PC
-SN: 5CG7496MGM
-View details
-Warranty type Service type Start Date End Date Status
-Manufacturer Warranty
-Wty: HP HW Maintenance Offsite Support
-Wty: HP Support for Initial Setup
-January 08, 2018
-January 08, 2018
-January 07, 2019
-April 07, 2018
-Expired
-Expired
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MFZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441KWN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441MNZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423Y0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MRB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441ZY8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0440H50
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MPX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442Q78
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441LTG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MGL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G2 EE Notebook PC
-SN: 5CG7496MGM
-View details
-Warranty type Service type Start Date End Date Status
-Manufacturer Warranty
-Wty: HP HW Maintenance Offsite Support
-Wty: HP Support for Initial Setup
-January 08, 2018
-January 08, 2018
-January 07, 2019
-April 07, 2018
-Expired
-Expired
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MFZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441KWN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441MNZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423Y0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MRB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441ZY8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0440H50
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MPX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442Q78
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441LTG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MGL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G2 EE Notebook PC
-SN: 5CG7496MGM
-View details
-Warranty type Service type Start Date End Date Status
-Manufacturer Warranty
-Wty: HP HW Maintenance Offsite Support
-Wty: HP Support for Initial Setup
-January 08, 2018
-January 08, 2018
-January 07, 2019
-April 07, 2018
-Expired
-Expired
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MFZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441KWN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441MNZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423Y0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G2 EE Notebook PC
-SN: 5CG7496MGM
-View details
-Warranty type Service type Start Date End Date Status
-Manufacturer Warranty
-Wty: HP HW Maintenance Offsite Support
-Wty: HP Support for Initial Setup
-January 08, 2018
-January 08, 2018
-January 07, 2019
-April 07, 2018
-Expired
-Expired
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MFZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441KWN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441MNZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423Y0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MRB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441ZY8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0440H50
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MPX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442Q78
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441LTG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MGL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G2 EE Notebook PC
-SN: 5CG7496MGM
-View details
-Warranty type Service type Start Date End Date Status
-Manufacturer Warranty
-Wty: HP HW Maintenance Offsite Support
-Wty: HP Support for Initial Setup
-January 08, 2018
-January 08, 2018
-January 07, 2019
-April 07, 2018
-Expired
-Expired
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MFZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441KWN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441MNZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423Y0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MRB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441ZY8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0440H50
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MPX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442Q78
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441LTG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MGL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G2 EE Notebook PC
-SN: 5CG7496MGM
-View details
-Warranty type Service type Start Date End Date Status
-Manufacturer Warranty
-Wty: HP HW Maintenance Offsite Support
-Wty: HP Support for Initial Setup
-January 08, 2018
-January 08, 2018
-January 07, 2019
-April 07, 2018
-Expired
-Expired
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MQ1
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MFZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441KWN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441MNZ
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423Y0
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MRB
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZV
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441ZY8
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0440H50
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MPX
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442Q78
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZS
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0441LTG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZN
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG04423ZG
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
-
-HP ProBook x360 11 G5 EE Notebook PC (7CB79AV)
-SN: 5CG0442MGL
-View details
-Warranty type Service type Start Date End Date Status
-Care Pack
-Pick-Up & Return, excl. external Monitor
-HWM Offsite
-  January 06, 2021
-  January 05, 2024
-  Active
 
